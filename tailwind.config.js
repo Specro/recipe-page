@@ -17,6 +17,13 @@ module.exports = {
         'brown-800': '#854632',
         'rose-800': '#7B284F',
         'rose-50': '#FFF5FA'
+      },
+      maxWidth: {
+        tablet: '736px'
+      },
+      fontSize: {
+        '3xl': '1.75rem',
+        '5xl': '2.5rem'
       }
     },
   },
